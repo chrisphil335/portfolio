@@ -16,6 +16,7 @@ const DeleteDuplicates = () => (
                     <li>Spotify Web API</li>
                     </ul>
                 </Card.Text>
+                <Card.Link href="https://github.com/chrisphil335/Delete-Duplicates">Source</Card.Link>
             </Card.Body>
         </Card>
     </div>
