@@ -16,6 +16,8 @@ const Website = () => (
                         <li>Bootstrap</li>
                     </ul>
                 </Card.Text>
+                <Card.Link href="https://chrisphil335.github.io/">Deployment</Card.Link>
+                <Card.Link href="https://github.com/chrisphil335/chrisphil335.github.io">Source</Card.Link>
             </Card.Body>
         </Card>
     </div>
