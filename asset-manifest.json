@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.334d3b65.js",
-    "static/media/edge_detection_image.png": "/static/media/edge_detection_image.dfe099b8604be4237ef0.png",
-    "static/media/clonecraft_image.png": "/static/media/clonecraft_image.90de57f69ff0b1be339f.png",
-    "static/media/deduplicate_image.png": "/static/media/deduplicate_image.2103af5abaed84bb0bef.png",
-    "static/media/portfolio_image.png": "/static/media/portfolio_image.53393cda3024d5bedde7.png",
-    "static/media/image_compression_image.png": "/static/media/image_compression_image.63cbfd6a41adcbcb2350.png",
-    "static/media/companion_image.png": "/static/media/companion_image.f02ba3a378a584074706.png",
-    "static/media/super_chess_image.png": "/static/media/super_chess_image.9273c551553d80bb071f.png",
-    "index.html": "/index.html",
-    "main.334d3b65.js.map": "/static/js/main.334d3b65.js.map"
+    "main.js": "/Portfolio/static/js/main.e3b45f76.js",
+    "static/media/art.jpg": "/Portfolio/static/media/art.c4360b4081da5490d7b3.jpg",
+    "static/media/edge_detection_image.png": "/Portfolio/static/media/edge_detection_image.dfe099b8604be4237ef0.png",
+    "static/media/clonecraft_image.png": "/Portfolio/static/media/clonecraft_image.90de57f69ff0b1be339f.png",
+    "static/media/deduplicate_image.png": "/Portfolio/static/media/deduplicate_image.2103af5abaed84bb0bef.png",
+    "static/media/portfolio_image.png": "/Portfolio/static/media/portfolio_image.53393cda3024d5bedde7.png",
+    "static/media/image_compression_image.png": "/Portfolio/static/media/image_compression_image.63cbfd6a41adcbcb2350.png",
+    "static/media/companion_image.png": "/Portfolio/static/media/companion_image.f02ba3a378a584074706.png",
+    "static/media/super_chess_image.png": "/Portfolio/static/media/super_chess_image.9273c551553d80bb071f.png",
+    "index.html": "/Portfolio/index.html",
+    "main.e3b45f76.js.map": "/Portfolio/static/js/main.e3b45f76.js.map"
   },
   "entrypoints": [
-    "static/js/main.334d3b65.js"
+    "static/js/main.e3b45f76.js"
   ]
 }
